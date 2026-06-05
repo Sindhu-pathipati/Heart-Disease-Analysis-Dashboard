@@ -1,4 +1,5 @@
 # Heart Disease Analysis Dashboard Using Power BI
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Project Overview
 
